@@ -1,1 +1,1 @@
-# Using RK4 to model the motion of the triple pendulum
+<h1 align=center>Using RK4 to Model the Motion of the Triple Pendulum</h1>
