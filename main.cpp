@@ -1,9 +1,10 @@
+/*******************
+ * Language standard: C++ 20
+ * Authors: Jiten Dhandha and Varun Shah
+*******************/
 #include <iostream>
-#include <math.h>
 
 int main() {
-    double cosine;
-    cosine = cos(1);
-    std::cout << cosine;
+    std::cout << "Hello, World!" << std::endl;
     return 0;
 }
